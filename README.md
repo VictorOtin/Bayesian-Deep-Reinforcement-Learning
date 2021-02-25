@@ -15,7 +15,6 @@ known as posterior sampling or probability matching, is a widely used exploratio
 with good practical performance [5] and theoretical guarantees [13] [1].
 
 
-
 Because the exact posterior is intractable, evaluating these approaches is hard. Further-
 more, these methods are rarely compared on benchmarks that measure the quality of their
 estimates of uncertainty for downstream tasks. To address this challenge, we develop a
@@ -23,3 +22,6 @@ benchmark for exploration using deep neural networks.
 In this project, we investigate how the posterior approximations affect the performance
 of Thompson Sampling from an empirical standpoint. We test the performance in four
 different typical recommendation Datasets.
+
+
+Find PDF with further information and the references just above.
